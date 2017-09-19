@@ -1,0 +1,31 @@
+{
+  "name": "react-websockets-component",
+  "version": "0.0.1",
+  "description": "React component to connect to websockets server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lafisrap/react-websockets-component.git"
+  },
+  "keywords": [
+    "react",
+    "websockets",
+    "component",
+    "jsx",
+    "es6"
+  ],
+  "author": "Michael Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lafisrap/react-websockets-component/issues"
+  },
+  "homepage": "https://github.com/lafisrap/react-websockets-component#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-error-overlay": "^2.0.1",
+    "socket.io-client": "^2.0.3"
+  }
+}
